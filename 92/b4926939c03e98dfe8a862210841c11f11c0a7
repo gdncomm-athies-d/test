@@ -1,0 +1,19 @@
+src/main/java/org/selenium/Pages/TablePage.java
+  s_3110ed0f3c72d8::t_2cfaa7a2791069 35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.11",
+  "base_commit_sha": "92b4926939c03e98dfe8a862210841c11f11c0a7",
+  "prompts": {},
+  "sessions": {
+    "s_3110ed0f3c72d8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0a953599-da0c-4d58-ace5-818d6f7fc629",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Athies D <athies.d@gdn-commerce.com>"
+    }
+  }
+}
