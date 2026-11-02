@@ -33,6 +33,9 @@ public class TablePage {
         WebElement data = driver.findElement(By.xpath(String.format("//table[@id='table1']//tr[%d]//td[%d]",r,c)));
         System.out.print(data.getText()+" ");
         System.out.println("Hi");
+        System.out.println("Hello");
+        System.out.print(" ");
+        System.out.print(" ");
         System.out.println("hello1");
       }
       System.out.println();
