@@ -35,6 +35,7 @@ public class TablePage {
         System.out.println("Hi");
         System.out.println("Hello");
         System.out.print(" ");
+        System.out.print(" ");
       }
       System.out.println();
     }
